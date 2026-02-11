@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home - PHP Project</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body {
+        font-family: Arial, sans-serif;
+        background: linear-gradient(135deg, #323e3f 0%, #176a86 100%);
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .container {
+        background: rgba(255, 255, 255, 0.2); /* transparent background */
+        backdrop-filter: blur(10px); /* glass effect */
+        padding: 40px;
+        border-radius: 10px;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+        max-width: 400px;
+        width: 100%;
+      }
+      h1 {
+        color: #f2ebeb;
+        margin-bottom: 20px;
+      }
+      p {
+        color: #fbf5f5;
+        margin-bottom: 30px;
+      }
+      .btn {
+        display: inline-block;
+        padding: 12px 30px;
+        background: #1b1c20;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+        margin: 10px;
+        transition: background 0.3s;
+      }
+      .btn:hover {
+        background: #6e6b6b;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Welcome to Our Website</h1>
+      <p>Get started by creating an account or logging in to your dashboard.</p>
+      <a href="signup.php" class="btn">Sign Up</a>
+      <a href="login.php" class="btn">Login</a>
+    </div>
+  </body>
+</html>

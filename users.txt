@@ -1,0 +1,20 @@
+[
+    {
+        "username": "ali_hassan",
+        "email": "ali.hassan@gmail.com",
+        "phone": "+923001234567",
+        "password": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi"
+    },
+    {
+        "username": "warda_khan",
+        "email": "warda.khan@gmail.com",
+        "phone": "+923457654321",
+        "password": "$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm"
+    },
+    {
+        "username": "wajeha_malik",
+        "email": "wajeha.malik@gmail.com",
+        "phone": "+923219876543",
+        "password": "$2y$10$E9dTzwY5z7K3QhJ6U4.8aeqRxXHgZMfCf5sN8wLpN2Vz9RtQzKkQm"
+    }
+]

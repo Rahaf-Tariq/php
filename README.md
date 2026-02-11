@@ -151,13 +151,3 @@ To make production-ready:
 3. Commit changes: `git commit -m 'Add feature'`
 4. Push to branch: `git push origin feature/name`
 5. Submit pull request
-
-## License
-
-This project is licensed under the MIT License.
-
-
----
-
-**Built with attention to security and user experience**
-```

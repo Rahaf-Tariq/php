@@ -156,21 +156,6 @@ To make production-ready:
 
 This project is licensed under the MIT License.
 
-```
-MIT License
-
-
-## Author
-
-**[Rahaf-Tariq]**
-- GitHub: [@Rahaf-Tariq](https://github.com/Rahaf-Tariq)
-- Email: rahafkhan510@gmail.com
-
-## Support
-
-If you found this project helpful, please star the repository and share it with others.
-
-For issues or questions, open an issue on GitHub.
 
 ---
 
